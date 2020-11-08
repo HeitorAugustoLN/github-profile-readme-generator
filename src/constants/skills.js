@@ -22,6 +22,7 @@ const categorizedSkills = {
       "coffeescript",
       "elixir",
       "erlang",
+      "lua"
     ],
   },
 
@@ -437,6 +438,7 @@ const icons = {
   middleman:
     "https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/middleman.svg",
   matlab: "https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg",
+  lua: "https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg"
 }
 
 const skillWebsites = {
@@ -585,6 +587,7 @@ const skillWebsites = {
   postman: "https://postman.com",
   erlang: "https://www.erlang.org/",
   middleman: "https://middlemanapp.com/",
+  lua: "https://www.lua.org/"
 }
 
 const initialSkillState = {}
