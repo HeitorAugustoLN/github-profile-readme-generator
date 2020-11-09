@@ -201,7 +201,7 @@ const categorizedSkills = {
 
   game_engines: {
     title: "Game Engines",
-    skills: ["unity", "unreal"],
+    skills: ["unity", "unreal", "robloxstudio"],
   },
 
   automation: {
@@ -438,7 +438,8 @@ const icons = {
   middleman:
     "https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/middleman.svg",
   matlab: "https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg",
-  lua: "https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg"
+  lua: "https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg",
+  robloxstudio: "https://raw.githubusercontent.com/HeitorAugustoLN/github-profile-readme-generator/4d3daac35f573caa406dafdc4d28cbd6f873cd51/src/images/icons/GameEngines/robloxstudio.svg"
 }
 
 const skillWebsites = {
@@ -587,7 +588,8 @@ const skillWebsites = {
   postman: "https://postman.com",
   erlang: "https://www.erlang.org/",
   middleman: "https://middlemanapp.com/",
-  lua: "https://www.lua.org/"
+  lua: "https://www.lua.org/",
+  robloxstudio: "https://www.roblox.com/create"
 }
 
 const initialSkillState = {}
